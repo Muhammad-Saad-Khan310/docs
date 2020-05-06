@@ -49,4 +49,7 @@ If you find that your scheduled sends or statistics seem like they are not quite
 
 **Website** - Your company’s website
 
-**Phone** - Your company’s phone number, where SendGrid can reach the representative that should be contacted.
+**Phone** - Your company’s phone number,
+where SendGrid can reach the representative that should be contacted.
+so after these question what is meant by "ou will not be able to send email through SendGrid until you provide more information. Please contact Support to answer a few more questions." after answering these questions. We still not recieve an confirmation email for it.
+So please work on my suggestion.
