@@ -42,3 +42,7 @@ We will send out several warning emails in the course of a month if an account f
 When an account is banned, it is permanently cancelled. Access to the account is blocked and no further requests to our system will be accepted. A banned account is not allowed back on SendGrid in the future. If the account had dedicated IPs, they will be removed. Related subusers will also be banned.
 
 We don't make a habit of letting banned accounts back on, but if you would like to discuss it, _please respond to the email you received regarding the ban._ **Support cannot assist in reactivation of banned accounts.**
+
+where SendGrid can reach the representative that should be contacted.
+so after these question what is meant by "ou will not be able to send email through SendGrid until you provide more information. Please contact Support to answer a few more questions." after answering these questions. We still not recieve an confirmation email for it.
+So please work on my suggestion.
